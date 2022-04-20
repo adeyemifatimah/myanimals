@@ -1,5 +1,14 @@
+.all{background-color: black;}
+
 h1{
     text-align: center;
 margin-top: 50px;
-text-decoration: dotted;
+}
+h6{
+    cursor: pointer;
+    color: cadetblue;
+
+}
+h6:hover{
+    text-decoration: underline;
 }
